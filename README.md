@@ -5,6 +5,8 @@ A free, fast **Indian GST & invoice calculator**. Add line items, split
 **GST-inclusive or exclusive** pricing, apply a discount, and get an instant,
 printable invoice. 100% client-side — no signup, no data leaves your browser.
 
+🔗 **Live demo:** https://digital-heros-phi.vercel.app/
+
 **Built for Digital Heroes** → https://digitalheroesco.com
 
 ## Why this tool
