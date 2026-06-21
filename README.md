@@ -37,4 +37,4 @@ Your name and email shown on the page live in [`src/lib/site.ts`](src/lib/site.t
 edit `OWNER_NAME` and `OWNER_EMAIL`.
 
 ---
-Built by **Sujal** · design@securedengineers.com
+Built by **Sujal** · sharmasujal81261@gmail.com
